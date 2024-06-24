@@ -1,0 +1,58 @@
+Bienvenue à Quran Academique
+
+Introduction
+Bienvenue à Quran Academique, votre destination en ligne pour apprendre l'arabe, le Coran et les sciences islamiques. Que vous soyez débutant ou que vous cherchiez à approfondir vos connaissances, notre plateforme est spécialement conçue pour les non-arabophones, offrant une méthode d'apprentissage flexible et complète.
+
+Section 1 : À propos de nous
+Chez Quran Academique, nous sommes dédiés à fournir une éducation de haute qualité en arabe, en études coraniques et en sciences islamiques. Notre équipe de professeurs expérimentés et passionnés est là pour vous guider et vous soutenir tout au long de votre parcours éducatif.
+
+Section 2 : Pourquoi choisir notre site ?
+
+Cours d'Arabe
+Nos cours d'arabe sont interactifs et progressifs, adaptés à tous les niveaux, du débutant à l'expert. Apprenez à votre rythme avec des leçons structurées qui vous aideront à maîtriser la langue arabe, que ce soit pour des raisons personnelles, professionnelles ou religieuses.
+
+Études du Coran
+Avec nos méthodes pédagogiques adaptées, apprenez à lire, comprendre et mémoriser le Coran. Nos cours sont conçus pour faciliter une compréhension profonde et significative des enseignements coraniques, vous aidant à intégrer ces connaissances dans votre vie quotidienne.
+
+Sciences Islamiques
+Nos cours en sciences islamiques couvrent une large gamme de sujets, des principes fondamentaux aux enseignements avancés de l'Islam. Enrichissez votre compréhension et votre pratique de l'Islam avec des leçons complètes et bien structurées.
+
+Enseignants Expérimentés
+Nos professeurs qualifiés sont passionnés par l'enseignement et possèdent une grande expertise dans leurs domaines respectifs. Ils vous accompagneront tout au long de votre apprentissage, assurant que vous recevez le soutien nécessaire pour réussir.
+
+Flexibilité et Accessibilité
+Avec nos ressources en ligne disponibles 24h/24, apprenez à votre propre rythme et selon votre propre emploi du temps. Notre plateforme est accessible partout et à tout moment, vous offrant la flexibilité dont vous avez besoin pour intégrer l'apprentissage dans votre vie.
+
+Conclusion
+Rejoignez notre communauté d'apprenants sur Quran Academique et commencez votre voyage vers la maîtrise de l'arabe, du Coran et des sciences islamiques. Inscrivez-vous dès aujourd'hui et découvrez une nouvelle manière d'apprendre, adaptée à vos besoins et à votre rythme.
+
+
+
+<article class="pricing-card">
+						<header>
+							<h3><a href="#">Cours d'Arabe</a></h3>
+						</header>
+						<div class="card-body">
+							<ul>
+								<li>Individuels: 4,5€</li>
+								<li>Binôme: 3,5€</li>
+								<li>Groupes: 2,5€</li>
+							</ul>
+						</div>
+						<footer>
+							<a href="#" class="button primary">En savoir plus</a>
+						</footer>
+					</article>
+				</div>
+				<!-- Second Card: Cours de Coran -->
+				<div class="col-6">
+					<article class="pricing-card">
+						<header>
+							<h3><a href="#">Cours de Coran</a></h3>
+						</header>
+						<div class="card-body">
+							<ul>
+								<li>Individuels: 4€</li>
+								<li>Binôme: 3,5€</li>
+								<li>Groupes: 2,5€</li>
+							</ul>
