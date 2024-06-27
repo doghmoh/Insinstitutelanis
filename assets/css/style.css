@@ -14,6 +14,10 @@
     height: 140px;
 }
 
+.art-body {
+    height: 150px;
+}
+
 .pricing-img {
     margin-bottom: 25px;
     border-radius: 50px;
@@ -48,8 +52,8 @@ li::before {
     /* Add space between checkmark and text */
 }
 
-  /********** common setting **********/
-  h2 {
+/********** common setting **********/
+h2 {
     font-size: 2.8rem !important;
     font-weight: 700;
 }
@@ -124,8 +128,8 @@ button {
 }
 
 #banner header img {
-    width: 380px;
-    height: 150px;
+    width: 230px;
+    height: 230px;
 }
 
 /********** feature (skew background) **********/
