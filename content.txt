@@ -1,58 +1,81 @@
-Bienvenue à Quran Academique
+BIENVENUE À L'INSTITUT Al-ANIS
 
-Introduction
-Bienvenue à Quran Academique, votre destination en ligne pour apprendre l'arabe, le Coran et les sciences islamiques. Que vous soyez débutant ou que vous cherchiez à approfondir vos connaissances, notre plateforme est spécialement conçue pour les non-arabophones, offrant une méthode d'apprentissage flexible et complète.
+Un institut en ligne pour l'enseignement du Coran, de la langue arabe et des sciences islamiques.
 
-Section 1 : À propos de nous
-Chez Quran Academique, nous sommes dédiés à fournir une éducation de haute qualité en arabe, en études coraniques et en sciences islamiques. Notre équipe de professeurs expérimentés et passionnés est là pour vous guider et vous soutenir tout au long de votre parcours éducatif.
-
-Section 2 : Pourquoi choisir notre site ?
-
-Cours d'Arabe
-Nos cours d'arabe sont interactifs et progressifs, adaptés à tous les niveaux, du débutant à l'expert. Apprenez à votre rythme avec des leçons structurées qui vous aideront à maîtriser la langue arabe, que ce soit pour des raisons personnelles, professionnelles ou religieuses.
-
-Études du Coran
-Avec nos méthodes pédagogiques adaptées, apprenez à lire, comprendre et mémoriser le Coran. Nos cours sont conçus pour faciliter une compréhension profonde et significative des enseignements coraniques, vous aidant à intégrer ces connaissances dans votre vie quotidienne.
-
-Sciences Islamiques
-Nos cours en sciences islamiques couvrent une large gamme de sujets, des principes fondamentaux aux enseignements avancés de l'Islam. Enrichissez votre compréhension et votre pratique de l'Islam avec des leçons complètes et bien structurées.
-
-Enseignants Expérimentés
-Nos professeurs qualifiés sont passionnés par l'enseignement et possèdent une grande expertise dans leurs domaines respectifs. Ils vous accompagneront tout au long de votre apprentissage, assurant que vous recevez le soutien nécessaire pour réussir.
-
-Flexibilité et Accessibilité
-Avec nos ressources en ligne disponibles 24h/24, apprenez à votre propre rythme et selon votre propre emploi du temps. Notre plateforme est accessible partout et à tout moment, vous offrant la flexibilité dont vous avez besoin pour intégrer l'apprentissage dans votre vie.
-
-Conclusion
-Rejoignez notre communauté d'apprenants sur Quran Academique et commencez votre voyage vers la maîtrise de l'arabe, du Coran et des sciences islamiques. Inscrivez-vous dès aujourd'hui et découvrez une nouvelle manière d'apprendre, adaptée à vos besoins et à votre rythme.
+Apprenons ensemble en ligne !
+Voulez-vous améliorer votre récitation et les règles de tajwid ?
+Voulez-vous apprendre à lire, écrire et même parler en arabe littéraire ?
+Voulez-vous apprendre les sciences de votre noble religion ?
+Il vous suffit de nous rejoindre.
 
 
 
-<article class="pricing-card">
-						<header>
-							<h3><a href="#">Cours d'Arabe</a></h3>
-						</header>
-						<div class="card-body">
-							<ul>
-								<li>Individuels: 4,5€</li>
-								<li>Binôme: 3,5€</li>
-								<li>Groupes: 2,5€</li>
-							</ul>
-						</div>
-						<footer>
-							<a href="#" class="button primary">En savoir plus</a>
-						</footer>
-					</article>
-				</div>
-				<!-- Second Card: Cours de Coran -->
-				<div class="col-6">
-					<article class="pricing-card">
-						<header>
-							<h3><a href="#">Cours de Coran</a></h3>
-						</header>
-						<div class="card-body">
-							<ul>
-								<li>Individuels: 4€</li>
-								<li>Binôme: 3,5€</li>
-								<li>Groupes: 2,5€</li>
-							</ul>
+
+
+
+POURQUOI CHOISIR NOTRE INSTITUT ?
+
+
+
+COURS D'ARABE 
+Des leçons interactives et progressives pour tous les niveaux, du débutant à l'expert.
+
+COURS DU CORAN 
+Apprenez à lire, et Améliorer votre récitation.,comprendre et mémoriser le Coran avec des méthodes pédagogiques adaptées et efficaces.
+
+SCIENCES ISLAMIQUES
+ Des cours complets sur les principes et les enseignements de l'Islam pour enrichir et approfondir votre compréhension.
+
+
+COURS D'ARABE 
+
+Nous offrons des cours complets et interactifs pour tous les niveaux 
+
+Cours pour débutants Commencez par apprendre les bases de la langue arabe : alphabet, vocabulaire de base et phrases simples.
+
+Cours intermédiaires Renforcez vos compétences en lecture, écriture et conversation en arabe. Approfondissez votre compréhension grammaticale.
+Cours avancés Maîtrisez l'arabe littéraire et explorez des textes complexes. Développez vos capacités de communication fluide et précise.
+
+
+Cours de conversation Pratiquez l'arabe parlé dans des situations réelles. Améliorez votre prononciation et votre aisance à l'oral.
+
+Rejoignez-nous et découvrez une méthode d'apprentissage efficace et adaptée à vos besoins.
+
+
+
+COURS DE CORAN 
+
+
+Apprenez le Coran dès le début !L'Institut propose des cours complets pour améliorer votre récitation et maîtriser les 
+règles du Tajwid. 
+Nos programmes incluent :
+
+
+Apprentissage du Coran : Commencez à lire et mémoriser le Coran, même si vous êtes débutant.
+
+Amélioration de la Récitation : Perfectionnez votre récitation avec des techniques avancées.
+
+Règles du Tajwid : Apprenez les règles essentielles pour une récitation correcte et précise.
+
+Cours sur les Points de Sortie des Lettres : Maîtrisez les points de sortie des lettres arabes pour une prononciation correcte.
+
+Rejoignez-nous pour des cours interactifs et enrichissants !
+
+
+
+
+Cours de Sciences Religieuses 
+
+Notre institut propose une gamme complète de cours de sciences religieuses, dispensés par des enseignantes francophones. Les programmes incluent: 
+
+Apprentissage de la Prière : Apprenez les différentes étapes et les bonnes pratiques de la prière.
+Invocations et (Adhkar) : Mémorisez et comprenez les invocations quotidiennes.
+
+Histoires des Prophètes et Sira (Biographie du Prophète) : Découvrez les histoires des prophètes et la vie du Prophète Muhammad (paix et bénédictions sur lui).
+
+Les Trois Fondements : Étudiez les bases essentielles de la foi islamique.
+L'unicité (Tawhid) : Comprenez les principes du monothéisme pur en Islam.
+
+Et bien d'autres cours enrichissants pour approfondir votre connaissance de l'Islam !
+
+Rejoignez-nous pour des cours interactifs et engageants, adaptés aux francophones !
