@@ -136,6 +136,8 @@ button {
 .feature img {
     width: 100%;
     max-width: 480px;
+    height: 455px;
+    box-shadow: 5px 5px 5px;
 }
 
 #feature-first {
@@ -213,5 +215,8 @@ button {
 @media (max-width: 575px) {
     #banner h1 {
         font-size: 3.6rem;
+    }
+    .mulogoz{
+        justify-content: center !important;
     }
 }
