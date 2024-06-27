@@ -7,7 +7,8 @@
 .imageend {
     height: 100px;
     width: 100px;
-    border-radius: 30px;
+    border-radius: 50%;
+    margin-left: 30px;
 }
 
 .forimag {
@@ -216,7 +217,8 @@ button {
     #banner h1 {
         font-size: 3.6rem;
     }
-    .mulogoz{
+
+    .mulogoz {
         justify-content: center !important;
     }
 }
