@@ -2,13 +2,15 @@
     font-family: "Inter", sans-serif;
 }
 
-
-
+body{
+    background-color: #6eff6169;
+}
 .imageend {
     height: 100px;
     width: 100px;
     border-radius: 30px;
 }
+
 
 .forimag {
     height: 140px;
@@ -141,11 +143,12 @@ button {
 }
 
 #feature-first {
-    background: linear-gradient(168deg, #ffffff 55%, #00FFAD 0);
+    /* background: linear-gradient(168deg, #ffffff 55%, #00FFAD 0); */
+    background-color: #6eff6169;;
 }
 
 #feature-last {
-    background: #00FFAD;
+    background: #6eff6169;;
 }
 
 /********** price table **********/
@@ -173,7 +176,7 @@ button {
 }
 
 #contact form {
-    color: #00FFAD;
+    color: #6eff6169;;
 }
 
 #contact form input,
